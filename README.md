@@ -172,18 +172,17 @@ With its own handloom factory and generations of expertise, the shop is celebrat
 ```
 
 ## OUTPUT
+![alt text](<vignesh/Screenshot 2025-12-05 114137.png>)
 
-![alt text](<Screenshot 2025-12-05 093211.png>)
+![alt text](<vignesh/Screenshot 2025-12-05 114204.png>)
 
-![alt text](<Screenshot 2025-12-05 093231.png>)
+![alt text](<vignesh/Screenshot 2025-12-05 114320.png>)
 
-![alt text](<Screenshot 2025-12-05 093250.png>)
+![alt text](<vignesh/Screenshot 2025-12-05 114332.png>)
 
-![alt text](<Screenshot 2025-12-05 093307.png>)
+![alt text](<vignesh/Screenshot 2025-12-05 114416.png>)
 
-![ali text](<Screenshot 2025-12-05 093339.png>)
-
-![alt text](<Screenshot 2025-12-05 093740.png>)
+![alt text](<vignesh/Screenshot 2025-12-05 114453.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
